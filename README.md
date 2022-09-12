@@ -25,8 +25,8 @@ ikujyfgfvdcgvtytujiytvrfgtyturtfgyrhtvgehujrvgtythvgtrfucbrtvkdf vkvjdfvnfnvkdfn
 ```html
 <html> 
     <head>
-    </head>
-  </html>
+     </head>
+   </html>
 ```
 
 [Google](https://www.google.es/)
