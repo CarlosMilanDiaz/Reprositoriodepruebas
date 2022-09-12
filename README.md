@@ -9,8 +9,8 @@ Primer repositorio Github
  * Elemento
  + Elemento 1
  + Elemento 2
-Lsta Ordenada
 
+Lista Ordenada
 1. Paso 1
 2. Paso 2
 3. Paso 3
